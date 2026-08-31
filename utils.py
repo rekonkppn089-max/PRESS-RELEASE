@@ -1659,7 +1659,7 @@ def display_kopdes_mbg_chart():
         st.markdown('</div>', unsafe_allow_html=True)
 
         # Bagian Detail KOPDES
-        st.markdown('<div class="data-section-v5"><div class="data-title-v5">Desa Yang Telah Melaksanakan Musdes</div>', unsafe_allow_html=True)
+        st.markdown('<div class="data-section-v5"><div class="data-title-v5">Desa Yang Telah Mendirikan Kopdes</div>', unsafe_allow_html=True)
         
         # Class warna angka untuk tiap daerah
         num_classes = {

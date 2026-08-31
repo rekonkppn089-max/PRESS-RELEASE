@@ -1636,7 +1636,7 @@ def display_kopdes_mbg_chart():
         st.markdown(f"""
             <div class="summary-card-v5">
                 <div class="summary-header-v5">
-                    <span class="summary-title-v5">Desa Yang Telah Melaksanakan Musdes</span>
+                    <span class="summary-title-v5">Desa Yang Telah Mendirikan Kopdes</span>
                 </div>
                 <div class="summary-value-v5">{total_terbentuk:,}</div>
                 <div class="summary-footer-v5">

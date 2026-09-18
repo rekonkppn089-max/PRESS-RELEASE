@@ -78,7 +78,7 @@ st.markdown("<h3 class='sub-header'>Lingkup KPPN Lhokseumawe</h3>", unsafe_allow
 
 # Periode/tanggal
 REPORT_YEAR = 2026
-st.markdown(f"<p class='period'>Periode: Januari - Juli {REPORT_YEAR}</p>", unsafe_allow_html=True)
+st.markdown(f"<p class='period'>Periode: Januari - Agustus {REPORT_YEAR}</p>", unsafe_allow_html=True)
 
 
 st.markdown('<hr class="divider">', unsafe_allow_html=True)
